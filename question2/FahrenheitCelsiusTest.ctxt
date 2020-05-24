@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FahrenheitCelsiusTest
+comment0.text=\n\ Classe-test\ FahrenheitCelsiusTest.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\ \u00EF\u00BF\u00BD\ ro\ de\ version\ ou\ une\ date)\n\ <p>\n\ Les\ classes-test\ sont\ document\u00EF\u00BF\u00BDes\ ici\ \:\n\ http\://junit.sourceforge.net/javadoc/junit/framework/TestCase.html\n\ et\ sont\ bas\u00EF\u00BF\u00BDes\ sur\ le\ document\ \u00EF\u00BF\u00BD\ 2002\ Robert\ A.\ Ballance\ intitul\u00EF\u00BF\u00BD\n\ \u00EF\u00BF\u00BDJUnit\:\ Unit\ Testing\ Framework\u00EF\u00BF\u00BD.\n\ <p>\n\ Les\ objets\ Test\ (et\ TestSuite)\ sont\ associ\u00EF\u00BF\u00BDs\ aux\ classes\ \u00EF\u00BF\u00BD\ tester\n\ par\ la\ simple\ relation\ yyyTest\ (e.g.\ qu'un\ Test\ de\ la\ classe\ Name.java\n\ se\ nommera\ NameTest.java);\ les\ deux\ se\ retrouvent\ dans\ le\ m\u00EF\u00BF\u00BDme\ paquetage.\n\ Les\ "engagements"\ (anglais\ \:\ "fixture")\ forment\ un\ ensemble\ de\ conditions\n\ qui\ sont\ vraies\ pour\ chaque\ m\u00EF\u00BF\u00BDthode\ Test\ \u00EF\u00BF\u00BD\ ex\u00EF\u00BF\u00BDcuter.\ \ Il\ peut\ y\ avoir\n\ plus\ d'une\ m\u00EF\u00BF\u00BDthode\ Test\ dans\ une\ classe\ Test;\ leur\ ensemble\ forme\ un\n\ objet\ TestSuite.\n\ BlueJ\ d\u00EF\u00BF\u00BDcouvrira\ automatiquement\ (par\ introspection)\ les\ m\u00EF\u00BF\u00BDthodes\n\ Test\ de\ votre\ classe\ Test\ et\ g\u00EF\u00BF\u00BDn\u00EF\u00BF\u00BDrera\ la\ TestSuite\ cons\u00EF\u00BF\u00BDquente.\n\ Chaque\ appel\ d'une\ m\u00EF\u00BF\u00BDthode\ Test\ sera\ pr\u00EF\u00BF\u00BDc\u00EF\u00BF\u00BDd\u00EF\u00BF\u00BD\ d'un\ appel\ de\ setUp(),\n\ qui\ r\u00EF\u00BF\u00BDalise\ les\ engagements,\ et\ suivi\ d'un\ appel\ \u00EF\u00BF\u00BD\ tearDown(),\ qui\ les\n\ d\u00EF\u00BF\u00BDtruit.\n
+comment1.params=
+comment1.target=FahrenheitCelsiusTest()
+comment1.text=\n\ Constructeur\ de\ la\ classe-test\ FahrenheitCelsiusTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Met\ en\ place\ les\ engagements.\n\ <p>\n\ M\u00EF\u00BF\u00BDthode\ appel\u00EF\u00BF\u00BDe\ avant\ chaque\ appel\ de\ m\u00EF\u00BF\u00BDthode\ de\ test.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Supprime\ les\ engagements\n\ <p>\n\ M\u00EF\u00BF\u00BDthode\ appel\u00EF\u00BF\u00BDe\ apr\u00EF\u00BF\u00BDs\ chaque\ appel\ de\ m\u00EF\u00BF\u00BDthode\ de\ test.\n
+comment4.params=
+comment4.target=void\ test3()
+comment5.params=
+comment5.target=void\ test_fahrenheitEnCelsius()
+comment6.params=
+comment6.target=void\ test2()
+numComments=7

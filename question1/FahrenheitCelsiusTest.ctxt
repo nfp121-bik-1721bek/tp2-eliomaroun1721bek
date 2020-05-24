@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FahrenheitCelsiusTest
+comment0.text=\n\ Classe-test\ FahrenheitCelsiusTest.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\ \u00EF\u00BF\u00BD\ ro\ de\ version\ ou\ une\ date)\n\ <p>\n\ Les\ classes-test\ sont\ document\u00EF\u00BF\u00BDes\ ici\ \:\n\ http\://junit.sourceforge.net/javadoc/junit/framework/TestCase.html\n\ et\ sont\ bas\u00EF\u00BF\u00BDes\ sur\ le\ document\ \u00EF\u00BF\u00BD\ 2002\ Robert\ A.\ Ballance\ intitul\u00EF\u00BF\u00BD\n\ \u00EF\u00BF\u00BDJUnit\:\ Unit\ Testing\ Framework\u00EF\u00BF\u00BD.\n\ <p>\n\ Les\ objets\ Test\ (et\ TestSuite)\ sont\ associ\u00EF\u00BF\u00BDs\ aux\ classes\ \u00EF\u00BF\u00BD\ tester\n\ par\ la\ simple\ relation\ yyyTest\ (e.g.\ qu'un\ Test\ de\ la\ classe\n\ Name.java\ se\ nommera\ NameTest.java);\ les\ deux\ se\ retrouvent\ dans\ le\n\ m\u00EF\u00BF\u00BDme\ paquetage.\ Les\ "engagements"\ (anglais\ \:\ "fixture")\ forment\ un\n\ ensemble\ de\ conditions\ qui\ sont\ vraies\ pour\ chaque\ m\u00EF\u00BF\u00BDthode\ Test\ \u00EF\u00BF\u00BD\n\ ex\u00EF\u00BF\u00BDcuter.\ Il\ peut\ y\ avoir\ plus\ d'une\ m\u00EF\u00BF\u00BDthode\ Test\ dans\ une\ classe\n\ Test;\ leur\ ensemble\ forme\ un\ objet\ TestSuite.\ BlueJ\ d\u00EF\u00BF\u00BDcouvrira\n\ automatiquement\ (par\ introspection)\ les\ m\u00EF\u00BF\u00BDthodes\ Test\ de\ votre\n\ classe\ Test\ et\ g\u00EF\u00BF\u00BDn\u00EF\u00BF\u00BDrera\ la\ TestSuite\ cons\u00EF\u00BF\u00BDquente.\ Chaque\ appel\ d'une\n\ m\u00EF\u00BF\u00BDthode\ Test\ sera\ pr\u00EF\u00BF\u00BDc\u00EF\u00BF\u00BDd\u00EF\u00BF\u00BD\ d'un\ appel\ de\ setUp(),\ qui\ r\u00EF\u00BF\u00BDalise\ les\n\ engagements,\ et\ suivi\ d'un\ appel\ \u00EF\u00BF\u00BD\ tearDown(),\ qui\ les\ d\u00EF\u00BF\u00BDtruit.\n
+comment1.params=
+comment1.target=FahrenheitCelsiusTest()
+comment1.text=\n\ Constructeur\ de\ la\ classe-test\ FahrenheitCelsiusTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Met\ en\ place\ les\ engagements.\n\ <p>\n\ M\u00EF\u00BF\u00BDthode\ appel\u00EF\u00BF\u00BDe\ avant\ chaque\ appel\ de\ m\u00EF\u00BF\u00BDthode\ de\ test.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Supprime\ les\ engagements\n\ <p>\n\ M\u00EF\u00BF\u00BDthode\ appel\u00EF\u00BF\u00BDe\ apr\u00EF\u00BF\u00BDs\ chaque\ appel\ de\ m\u00EF\u00BF\u00BDthode\ de\ test.\n
+comment4.params=
+comment4.target=void\ test3()
+comment4.text=\n\ Il\ ne\ vous\ reste\ plus\ qu'\u00EF\u00BF\u00BD\ d\u00EF\u00BF\u00BDfinir\ une\ ou\ plusieurs\ m\u00EF\u00BF\u00BDthodes\ de\ test.\ Ces\n\ m\u00EF\u00BF\u00BDthodes\ doivent\ v\u00EF\u00BF\u00BDrifier\ les\ r\u00EF\u00BF\u00BDsultats\ attendus\ \u00EF\u00BF\u00BD\ l'aide\ d'assertions\n\ assertTrue(<boolean>).\ Par\ convention,\ leurs\ noms\ devraient\ d\u00EF\u00BF\u00BDbuter\ par\n\ "test".\ Vous\ pouvez\ \u00EF\u00BF\u00BDbaucher\ le\ corps\ gr\u00EF\u00BF\u00BDce\ au\ menu\ contextuel\n\ "Enregistrer\ une\ m\u00EF\u00BF\u00BDthode\ de\ test".\n
+comment5.params=
+comment5.target=void\ test_fahrenheitEnCelsius()
+comment6.params=
+comment6.target=void\ test2()
+numComments=7
